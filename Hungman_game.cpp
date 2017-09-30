@@ -29,6 +29,8 @@ int main ()
         "ethiopia",
         "oman",
         "indonesia"
+        "china"
+        "uganda"
     };
 
     //choose and copy a word from array of words randomly
