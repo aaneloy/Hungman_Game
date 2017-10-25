@@ -101,7 +101,7 @@ void initUnknown(char word[], char unknown[])
 
 /* Take a one character guess and the secret word, and fill in the
 unfinished guessword. Returns number of characters matched.
-Also, returns zero if the character is already guessed. */
+
 
 int letterFill (char guess, char secretword[], char guessword[])
 {
