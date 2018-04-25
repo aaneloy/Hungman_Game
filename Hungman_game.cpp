@@ -5,7 +5,7 @@
 
 using namespace std;
 
-const int MAXLENGTH=80;
+const int MAXLENGTH=100;
 const int MAX_TRIES=5;
 const int MAXROW=7;
 
